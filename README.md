@@ -4,7 +4,8 @@
 
 ### Автор: Юманова Эльвира
 Ссылка на репозиторий с уроком про животных: https://github.com/yumanova/wild_animals
-Ссылка на репозиторий с уроком про геометрическу библиотеку: https://github.com/yumanova/geometric_lib
+
+Ссылка на репозиторий с уроком про геометрическую библиотеку: https://github.com/yumanova/geometric_lib
 
 #### Ход работы
 * git clone https://github.com/smartiqaorg/geometric_lib
